@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12195101/184439234-2b3caa04-6e14-4d68-9ce3-2441680f50eb.png" alt="logo" width="60" />
+  <img src="https://user-images.githubusercontent.com/12195101/184439965-a2a91ee9-f92b-4f39-9828-ca8e6cb88fd5.jpg" alt="logo" width="60" />
 </p>
 
 <h3 align="center">Easel</h3>
